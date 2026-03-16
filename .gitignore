@@ -37,5 +37,10 @@
 *.out
 *.app
 
+# Project files
+*.sln
+*.vcproj
+
+
 # debug information files
 *.dwo
