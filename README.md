@@ -5,8 +5,8 @@
 <h1 align="center">AfterAI</h1>
 <h3>使用 DeepSeek API 的神经网络人工智能</h3>
 
-![下载](https://github.com/deeplearning-corporation/AfterAI/releases)
-![BiliBili](https://space.bilibili.com/3493294325631048?spm_id_from=333.1007.0.0)
+[![下载](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/deeplearning-corporation/AfterAI/releases)
+[![BiliBili](https://img.shields.io/badge/BiliBili-Space-ff69b4?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/3493294325631048?spm_id_from=333.1007.0.0)
 
 ---
 
