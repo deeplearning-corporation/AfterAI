@@ -43,5 +43,5 @@ To build AfterAI you need:
 To run:
 After compilation, an `AfterAI.exe` file will appear. Run it directly.
 
-## Acknowledgements
+## Thanks
 Thank you for reading our AfterAI README.
