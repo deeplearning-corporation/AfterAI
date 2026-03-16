@@ -32,9 +32,9 @@ You can download our AfterAI product via GitHub Releases: https://github.com/dee
 - https://github.com/deeplearning-corporation/AfterAI/issues/new
 
 ## Features
-- [] It is a neural network AI
-- [x] Can directly write an operating system
-- [x] Can provide viruses
+- [Can] It is a neural network AI
+- [No] Can directly write an operating system
+- [No] Can provide viruses
 
 ## Build & Run
 To build AfterAI you need:
