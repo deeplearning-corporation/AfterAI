@@ -32,9 +32,9 @@ AfterAI 是一个使用 DeepSeek API 制作的神经网络 AI 人工智能。
 - https://github.com/deeplearning-corporation/AfterAI/issues/new
 
 ## 功能
-- [] 是神经网络 AI 人工智能
-- [x] 可以直接编写一个操作系统
-- [x] 可以提供病毒
+- [是的] 是神经网络 AI 人工智能
+- [不可以] 可以直接编写一个操作系统
+- [不可以] 可以提供病毒
 
 ## 构建 & 运行
 如果需要构建 After AI 需要：
